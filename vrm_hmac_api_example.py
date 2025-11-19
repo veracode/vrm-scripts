@@ -1,3 +1,5 @@
+### This script provides an example VRM API call that uses HMAC authentication. ###
+
 import requests, os, time, uuid
 import hmac
 import hashlib
